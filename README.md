@@ -16,11 +16,4 @@ I have 5 years’ of  work experience as Network Engineer and Now I am looking t
 
 | 5. read05| [Operators and Loops](https://mohammadaljadayh.github.io/reading-notes/read05)    |
 | 6. read06| [ Design web pages with CSS](https://mohammadaljadayh.github.io/reading-notes/read05)    |
-
-
-=======
->>>>>>> 5297c6774307a82a50b0aac97eba00dc752f82c1
-
-
-
 --------------------------------------
