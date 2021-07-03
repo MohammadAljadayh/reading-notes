@@ -15,6 +15,9 @@ I have 5 years’ of  work experience as Network Engineer and Now I am looking t
 | 5. read04| [Dynamic web pages with JavaScript](https://mohammadaljadayh.github.io/reading-notes/102/read04)    |
 | 5. read05| [Operators and Loops](https://mohammadaljadayh.github.io/reading-notes/102/read05)    |
 | 6. read06| [ Design web pages with CSS](https://mohammadaljadayh.github.io/reading-notes/102/read06)    |
-| 7. read07| [  Programming with JavaScript](https://mohammadaljadayh.github.io/reading-notes/102/read07)    |
+| 7. read07| [  Programming with JavaScript](https://mohammadaljadayh.github.io/reading-notes/102/read07)  |
+
+
+
 
 
