@@ -26,7 +26,11 @@ I have 5 years’ of  work experience as Network Engineer and Now I am looking t
 |1. class-03| [HTML Lists, Control Flow with JS, and the CSS Box Model](https://mohammadaljadayh.github.io/reading-notes/201/read03)|
 | 1. class-04| [HTML Links, JS Functions, and Intro to CSS Layout](https://mohammadaljadayh.github.io/reading-notes/201/read04)  |
 | 1. class-05| [HTML Images; CSS Color & Text](https://mohammadaljadayh.github.io/reading-notes/201/read05)  |
+<<<<<<< HEAD
 | 1. class-06| [Problem Domain, Objects, and the DOM](https://mohammadaljadayh.github.io/reading-notes/201/read06)  |
+=======
+| 1. class-03| [3](https://mohammadaljadayh.github.io/reading-notes/201/read03)  |
+>>>>>>> 1ff1a59c63d7630323b74435ead16cb9b46af171
 | 1. class-04| [4](https://mohammadaljadayh.github.io/reading-notes/201/read04)   |
 | 1. class-05| [5](https://mohammadaljadayh.github.io/reading-notes/201/read05)   |
 | 1. class-07| [6](https://mohammadaljadayh.github.io/reading-notes/201/read06)   |
