@@ -99,4 +99,4 @@ The fullName property will execute (as a function) when it is invoked with ().
 This example accesses the fullName() method of a person object:
 
 ![](https://dmitripavlutin.com/static/d0597f7819971bf2b124b653b673eb29/05127/cover-2.png)
-qa
+
