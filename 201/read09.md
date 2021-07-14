@@ -2,7 +2,9 @@
 ## Forms
 - Whenever you want to collect information from
 visitors you will need a form, which lives inside a
+
 **<form>** element.
+
 -  Information from a form is sent in name/value pairs.
 - Each form control is given a name, and the text the
 user types in or the values of the options they select
@@ -13,6 +15,11 @@ easier for visitors to fill in forms.
 ** An HTML form is used to collect user input. The user input is most often sent to a server for processing.**
 
 #### The HTML <form> element
+
+- The HTML **<form>** element is used to create an HTML form for user input:
+
+- The **<form>** element is a container for different types of input elements, such as: text fields, checkboxes, radio buttons, submit buttons, etc. 
+
 - The HTML **<form>** element is used to create an HTML form for user input:
 
 - The **<form>** element is a container for different types of input elements, such as: text fields, checkboxes, radio buttons, submit buttons, etc. 
@@ -31,14 +38,20 @@ An **<input>** element can be displayed in many ways, depending on the type attr
 - **<input type="submit">**	Displays a submit button (for submitting the form)
 - **<input type="button">**	Displays a clickable button 
 
+
+
+
 ![](https://i.ytimg.com/vi/MKSQYsLLFEo/maxresdefault.jpg)
 
 #### Text Fields 
+
 - The **<input type="text">** defines a single-line input field for text input. 
+
 
 ![](https://i.ytimg.com/vi/U8YshrNwN8I/maxresdefault.jpg)
 
 #### The <label> Element
+
 
 - The **<label>** tag defines a label for many form elements.
 
@@ -47,6 +60,8 @@ An **<input>** element can be displayed in many ways, depending on the type attr
 - The **<label>** element also help users who have difficulty clicking on very small regions (such as radio buttons or checkboxes) - because when the user clicks the text within - the **<label>** element, it toggles the radio button/checkbox.
 
 - The for attribute of the **<label>** tag should be equal to the id attribute of the **<input>** element to bind them together.
+
+
 
 
 ---------------------------------------------
