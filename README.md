@@ -30,5 +30,9 @@ I have 5 years’ of  work experience as Network Engineer and Now I am looking t
 | 1. class-07| [Object-Oriented Programming, HTML Tables](https://mohammadaljadayh.github.io/reading-notes/201/read07)  |
 | 1. class-08|[Layout ](https://mohammadaljadayh.github.io/reading-notes/201/read08)  |
 | 1. class-09| [Forms and JS Events](https://mohammadaljadayh.github.io/reading-notes/201/read09)   |
+| 1. class-10| [JS Debugging](https://mohammadaljadayh.github.io/reading-notes/201/read10)   |
+| 1. class-11| [Audio, Video, Images](https://mohammadaljadayh.github.io/reading-notes/201/read11)   |
+
+ 
 
 
