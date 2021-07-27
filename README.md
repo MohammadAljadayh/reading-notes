@@ -34,6 +34,11 @@ I have 5 years’ of  work experience as Network Engineer and Now I am looking t
 | 1. class-11| [Audio, Video, Images](https://mohammadaljadayh.github.io/reading-notes/201/read11)   |
 | 1. class-12| [Chart.js, Canvas](https://mohammadaljadayh.github.io/reading-notes/201/read12)   |
 | 1. class-13| [Local Storage](https://mohammadaljadayh.github.io/reading-notes/201/read13)   |
+| 1. class-14| [CSS Transforms, Transitions, and Animations](https://mohammadaljadayh.github.io/reading-notes/201/read14)   |
+| 1. class-15| [What Google Learned From Its Quest to Build the Perfect Team](https://mohammadaljadayh.github.io/reading-notes/201/read15)   |
+
+
+ 
 
 
 
