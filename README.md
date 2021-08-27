@@ -38,7 +38,16 @@ I have 5 years’ of  work experience as Network Engineer and Now I am looking t
 | 1. class-15| [What Google Learned From Its Quest to Build the Perfect Team](https://mohammadaljadayh.github.io/reading-notes/201/read15)   |
 
 
- 
+  ---------------------------------------
+# Code 301 Reading Note 
+ | Assignment | **Link**|
+| :---        |    :----:   |
+| 1. class-01| [](https://mohammadaljadayh.github.io/reading-notes/301/read01) |
+| 1. class-02| [](https://mohammadaljadayh.github.io/reading-notes/301/read01) |
+| 1. class-03| [](https://mohammadaljadayh.github.io/reading-notes/301/read01) |
+| 1. class-04| [](https://mohammadaljadayh.github.io/reading-notes/301/read01) |
+| 1. class-05| [](https://mohammadaljadayh.github.io/reading-notes/301/read01) |
+
 
 
 
