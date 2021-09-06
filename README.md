@@ -48,6 +48,7 @@ I have 5 years’ of  work experience as Network Engineer and Now I am looking t
 | 1. class-04| [React and Forms](https://mohammadaljadayh.github.io/reading-notes/301/read04) |
 | 1. class-05| [Putting it all together](https://mohammadaljadayh.github.io/reading-notes/301/read05) |
 | 1. class-06| [NODE.JS](https://mohammadaljadayh.github.io/reading-notes/301/read06) |
+| 1. class-07| [REST](https://mohammadaljadayh.github.io/reading-notes/301/read07) |
 
 
 
