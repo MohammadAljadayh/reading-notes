@@ -50,7 +50,7 @@ I have 5 years’ of  work experience as Network Engineer and Now I am looking t
 | 1. class-06| [NODE.JS](https://mohammadaljadayh.github.io/reading-notes/301/read06) |
 | 1. class-07| [REST](https://mohammadaljadayh.github.io/reading-notes/301/read07) |
 | 1. class-08| [APIs](https://mohammadaljadayh.github.io/reading-notes/301/read08) |
-
+| 1. class-09| [FUNCTIONAL PROGRAMMING](https://mohammadaljadayh.github.io/reading-notes/301/read09) |
 
 
 
