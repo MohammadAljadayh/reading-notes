@@ -55,6 +55,9 @@ I have 5 years’ of  work experience as Network Engineer and Now I am looking t
 | 1. class-11| [In memory storage](https://mohammadaljadayh.github.io/reading-notes/301/read11) |
 | 1. class-12| [CRUD](https://mohammadaljadayh.github.io/reading-notes/301/read12) |
 | 1. class-13| [Diversity & Inclusion in the Tech Industry](https://mohammadaljadayh.github.io/reading-notes/301/read13) |
+| 1. class-13| [Authentication](https://mohammadaljadayh.github.io/reading-notes/301/read14) |
+
+
 
 
 
