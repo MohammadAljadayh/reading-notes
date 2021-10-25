@@ -57,7 +57,15 @@ I have 5 years’ of  work experience as Network Engineer and Now I am looking t
 | 1. class-13| [Diversity & Inclusion in the Tech Industry](https://mohammadaljadayh.github.io/reading-notes/301/read13) |
 | 1. class-13| [Authentication](https://mohammadaljadayh.github.io/reading-notes/301/read14) |
 
-
+---------------------------------------------------------------------------------------------------------
+# Code 401 Reading Note 
+ | Assignment | **Link**|
+| :---        |    :----:   |
+| 1. class-01| [1-](https://mohammadaljadayh.github.io/reading-notes/401/read01) |
+| 1. class-02| [2-](https://mohammadaljadayh.github.io/reading-notes/401/read02) |
+| 1. class-03| [3-](https://mohammadaljadayh.github.io/reading-notes/401/read03) |
+| 1. class-04| [4-](https://mohammadaljadayh.github.io/reading-notes/401/read04) |
+| 1. class-05| [5-](https://mohammadaljadayh.github.io/reading-notes/401/read05) |
 
 
 
