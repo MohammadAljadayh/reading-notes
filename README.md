@@ -61,7 +61,7 @@ I have 5 years’ of  work experience as Network Engineer and Now I am looking t
 # Code 401 Reading Note 
  | Assignment | **Link**|
 | :---        |    :----:   |
-| 1. class-01| [1-](https://mohammadaljadayh.github.io/reading-notes/401/read01) |
+| 1. class-01| [1-Get Ready for 401 ](https://mohammadaljadayh.github.io/reading-notes/401/read01) |
 | 1. class-02| [2-](https://mohammadaljadayh.github.io/reading-notes/401/read02) |
 | 1. class-03| [3-](https://mohammadaljadayh.github.io/reading-notes/401/read03) |
 | 1. class-04| [4-](https://mohammadaljadayh.github.io/reading-notes/401/read04) |
