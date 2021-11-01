@@ -24,6 +24,7 @@
 ## Provide code snippets showing how to use superagent() to fetch data from a URL and log the result
 
 - With normal Promise .then() syntax
+
 ```
 function getCharacters(){
 superagent.get(`https://swapi.dev/api/people/?format=json`)
