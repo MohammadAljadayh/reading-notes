@@ -61,4 +61,13 @@ Each route can have one or more handler functions, which are executed when the r
 ``WRRC``
 
 Web request response cycle, The request/response cycle traces how a user's request flows through the app. Understanding the request/response cycle is helpful to figure out which files to edit when developing an app (and where to look when things aren't working).
-
+------------------------------------------------------------------------------------------------------
+# Preview
+> Which 3 things had you heard about previously and now have better clarity on?
+- ore About status Codes
+> Which 3 things are you hoping to learn more about in the upcoming lecture/demo? 
+- More A bout Middle Ware 
+- SQL as DataBase 
+- RESTful API
+> What are you most excited about trying to implement or see how it works?
+- CRUD APP WITH TESTING UNIT 
