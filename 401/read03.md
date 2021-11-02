@@ -64,7 +64,9 @@ Web request response cycle, The request/response cycle traces how a user's reque
 ------------------------------------------------------------------------------------------------------
 # Preview
 > Which 3 things had you heard about previously and now have better clarity on?
-- ore About status Codes
+- more About status Codes
+- deployment on herouko 
+- basic of backend 
 > Which 3 things are you hoping to learn more about in the upcoming lecture/demo? 
 - More A bout Middle Ware 
 - SQL as DataBase 
