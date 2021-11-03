@@ -65,7 +65,7 @@ I have 5 years’ of  work experience as Network Engineer and Now I am looking t
 | 1. class-02| [2-Node Ecosystem, TDD, CI/CD](https://mohammadaljadayh.github.io/reading-notes/401/read02) |
 | 1. class-03| [3-Express](https://mohammadaljadayh.github.io/reading-notes/401/read03) |
 | 1. class-04| [4-](https://mohammadaljadayh.github.io/reading-notes/401/read04) |
-| 1. class-05| [5-](https://mohammadaljadayh.github.io/reading-notes/401/read05) |
+| 1. class-05| [5-Data Modeling](https://mohammadaljadayh.github.io/reading-notes/401/read05) |
 
 
 
