@@ -89,3 +89,48 @@ A data model (or datamodel) is an abstract model that organizes elements of data
 - SQL App tools 
 > What are you most excited about trying to implement or see how it works?
 -  big database with multi of collections 
+
+-----------------------------------------------------------------
+
+## SQL vs NoSQL Database 
+
+### SQL vs NoSQL: High-Level Differences 
+- SQL databases are primarily called as Relational Databases (RDBMS); whereas NoSQL database are primarily called as non-relational or distributed database 
+- SQL databases are table based databases whereas NoSQL databases are document based, key-value pairs, graph databases or wide-column store 
+- SQL databases have predefined schema whereas NoSQL databases have dynamic schema for unstructured data 
+- SQL databases are vertically scalable whereas the NoSQL databases are horizontally scalable 
+ - SQL databases uses SQL ( structured query language ) for defining and manipulating the data, which is very powerful. In NoSQL database, queries are focused on collection of documents 
+
+![](https://miro.medium.com/max/2000/1*1QyI7Zxx73mkG0FcwNUyuw.jpeg)
+ ### SQL Database Examples : 
+ - MySQL Community Edition 
+ - MS-SQL Server Express Edition 
+ - Oracle Express Edition 
+
+ ### NoSQL Database Examples
+-  MongoDB 
+- CouchDB 
+- Redis 
+
+---------------------------------------------------------
+### sql modeling techniques : 
+
+There are many types of modeling software you can use to create models, such as MySql Workbench, which not only create smart looking diagrams 
+### Model a relational database table that include : 
+- The Table Name, which is located at the top of the table.
+- The Primary Keys.  Remember the primary keys uniquely identify each row in a table.  A table typically has one primary key, but can have more.  When the key has more than one column, it is called a compound key.
+- Table Columns – There can be one or more table columns.  To keep the diagrams simple, I don’t show the data types.  I may introduce those later when we focus on more comprehensive modeling.
+- Foreign Key – This is a column or set of columns which match a primary key in another table.   
+
+
+![](https://www.essentialsql.com/wp-content/uploads/2021/11/Database-Table-Data-Modeling.png?ezimgfmt=rs:455x336/rscb23/ng:webp/ngcb23)  
+
+### Data Modeling – Table Relationships 
+
+- one-to-many relationship : an entry in one table can be related to more than one entry in another. 
+- many-to-one relationship:  is similar to a one-to-many relationship, this difference is in the point-of-view you take when naming the relationship
+- one-to-one 
+- zero or one-to-many 
+
+
+![](https://www.essentialsql.com/wp-content/uploads/2014/06/DataModel-Relations1.png?ezimgfmt=ng:webp/ngcb23)

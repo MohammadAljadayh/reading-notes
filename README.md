@@ -64,9 +64,9 @@ I have 5 years’ of  work experience as Network Engineer and Now I am looking t
 | 1. class-01| [1-Get Ready for 401 ](https://mohammadaljadayh.github.io/reading-notes/401/read01) |
 | 2. class-02| [2-Node Ecosystem, TDD, CI/CD](https://mohammadaljadayh.github.io/reading-notes/401/read02) |
 | 3. class-03| [3-Express](https://mohammadaljadayh.github.io/reading-notes/401/read03) |
-| 4. class-04| [4-](https://mohammadaljadayh.github.io/reading-notes/401/read04) |
+| 4. class-04| [4-Express REST API](https://mohammadaljadayh.github.io/reading-notes/401/read04) |
 | 5. class-05| [5-Data Modeling](https://mohammadaljadayh.github.io/reading-notes/401/read05) |
-| 6. class-05| [5-Linked-List](https://mohammadaljadayh.github.io/reading-notes/401/read06) |
+| 6. class-05| [6-Linked-List](https://mohammadaljadayh.github.io/reading-notes/401/read06) |
 
 
 
