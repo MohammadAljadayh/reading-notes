@@ -69,3 +69,60 @@ Behavioural Testing is a testing of the external behaviour of the program, also 
 - SQL App tools 
 > What are you most excited about trying to implement or see how it works?
 - working with big database with multi of tabels 
+
+-------------------------------------------------------
+## Classes
+Classes are a template for creating objects. They encapsulate data with code to work on that data. Classes in JS are built on prototypes but also have some syntax and semantics that are not shared with ES5 class-like semantics.
+
+## Defining classes
+Classes are in fact "special functions", and just as you can define function expressions and function declarations, the class syntax has two components: class expressions and class declarations.
+
+### Class declarations : 
+
+```
+class Rectangle {
+  constructor(height, width) {
+    this.height = height;
+    this.width = width;
+  }
+}
+``` 
+
+### Class expressions : 
+-A class expression is another way to define a class. Class expressions can be named or unnamed. The name given to a named class expression is local to the class's body. However, it can be accessed via the name property.  
+
+
+### Class body and method definitions 
+- Strict mode : The body of a class is executed in strict mode 
+- Constructor : The constructor method is a special method for creating and initializing an object created with a class. There can only be one special method with the name "constructor" in a class. 
+ - Static initialization blocks : Class static initialization blocks allow flexible initialization of class static properties including the evaluation of statements during initialization, and granting access to private scope.
+
+ ### Static methods and properties : 
+ The static keyword defines a static method or property for a class. Static members (properties and methods) are called without instantiating their class and cannot be called through a class instance. Static methods are often used to create utility functions for an application, whereas static properties are useful for caches, fixed-configuration, or any other data you don't need to be replicated across instances.
+
+----------------------------------------------------------------------------------
+
+## Routing 
+- Routing refers to how an application’s endpoints (URIs) respond to client requests. For an introduction to routing. 
+- Route methods  A route method is derived from one of the HTTP methods, and is attached to an instance of the express class.
+- Route paths : Route paths, in combination with a request method, define the endpoints at which requests can be made. Route paths can be strings, string patterns, or regular expressions.
+- Route parameters : Route parameters are named URL segments that are used to capture the values specified at their position in the URL
+- Route handlers : You can provide multiple callback functions that behave like middleware to handle a request
+
+### Response methods : 
+The methods on the response object (res) in the following table can send a response to the client, and terminate the request-response cycle. If none of these methods are called from a route handler, the client request will be left hanging 
+- app.route() : You can create chainable route handlers for a route path by using app.route().
+- express.Router : Use the express.Router class to create modular, mountable route handlers. A Router instance is a complete middleware and routing system; for this reason, it is often referred to as a “mini-app”.
+
+-----------------------------------------------------------------------------------------------------
+### With the inclusion of the Express 4.0 Router, we are given more flexibility than ever before in defining our routes.  we can:
+
+- Use express.Router() multiple times to define groups of routes
+- Apply the express.Router() to a section of our site using app.use()
+- Use route middleware to process requests
+- Use route middleware to validate parameters using .param()
+- Use app.route() as a shortcut to the Router to define multiple requests on a route
+- With all the ways we can define routes, I'm sure that our applications will benefit going forward. Sound off in the comments if you have any questions or suggestions 
+
+### For More Details : 
+[Learn to Use the New Router in ExpressJS 4.0](https://scotch.io/tutorials/learn-to-use-the-new-router-in-expressjs-4)
