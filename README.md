@@ -67,6 +67,10 @@ I have 5 years’ of  work experience as Network Engineer and Now I am looking t
 | 4. class-04| [4-Express REST API](https://mohammadaljadayh.github.io/reading-notes/401/read04) |
 | 5. class-05| [5-Data Modeling](https://mohammadaljadayh.github.io/reading-notes/401/read05) |
 | 6. class-05| [6-Linked-List](https://mohammadaljadayh.github.io/reading-notes/401/read06) |
+| 7. class-05| [7-Authentication](https://mohammadaljadayh.github.io/reading-notes/401/read07) |
+
+
+
 
 
 
