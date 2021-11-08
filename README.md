@@ -66,8 +66,9 @@ I have 5 years’ of  work experience as Network Engineer and Now I am looking t
 | 3. class-03| [3-Express](https://mohammadaljadayh.github.io/reading-notes/401/read03) |
 | 4. class-04| [4-Express REST API](https://mohammadaljadayh.github.io/reading-notes/401/read04) |
 | 5. class-05| [5-Data Modeling](https://mohammadaljadayh.github.io/reading-notes/401/read05) |
-| 6. class-05| [6-Linked-List](https://mohammadaljadayh.github.io/reading-notes/401/read06) |
-| 7. class-05| [7-Authentication](https://mohammadaljadayh.github.io/reading-notes/401/read07) |
+| 6. class-06| [6-Linked-List](https://mohammadaljadayh.github.io/reading-notes/401/read06) |
+| 7. class-07| [7-Authentication](https://mohammadaljadayh.github.io/reading-notes/401/read07) |
+| 7. class-08| [8-Bearer Authorization](https://mohammadaljadayh.github.io/reading-notes/401/read08) |
 
 
 
