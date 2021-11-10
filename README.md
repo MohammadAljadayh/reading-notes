@@ -69,7 +69,7 @@ I have 5 years’ of  work experience as Network Engineer and Now I am looking t
 | 6. class-06| [6-Linked-List](https://mohammadaljadayh.github.io/reading-notes/401/read06) |
 | 7. class-07| [7-Authentication](https://mohammadaljadayh.github.io/reading-notes/401/read07) |
 | 8. class-08| [8-Bearer Authorization](https://mohammadaljadayh.github.io/reading-notes/401/read08) |
-| 9. class-09| [9-Access Control (ACL)](https://mohammadaljadayh.github.io/reading-notes/401/read09) |
+| 10. class-09| [10-Authorization/Authentication)](https://mohammadaljadayh.github.io/reading-notes/401/read10) |
 
 
 
