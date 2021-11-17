@@ -74,7 +74,11 @@ I have 5 years’ of  work experience as Network Engineer and Now I am looking t
 | 11. class-11| [Event Driven Applications)](https://mohammadaljadayh.github.io/reading-notes/401/read12) |
 | 11. class-12| [Socket.io)](https://mohammadaljadayh.github.io/reading-notes/401/read13) |
 | 11. class-13| [Message Queues)](https://mohammadaljadayh.github.io/reading-notes/401/read14) |
-Message Queues
+| 11. class-14| [Event Driven Architecture)](https://mohammadaljadayh.github.io/reading-notes/401/read15) |
+
+
+
+
 
 
 
