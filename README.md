@@ -75,6 +75,7 @@ I have 5 years’ of  work experience as Network Engineer and Now I am looking t
 | 12. class-12| [Socket.io)](https://mohammadaljadayh.github.io/reading-notes/401/read13) |
 | 13. class-13| [Message Queues)](https://mohammadaljadayh.github.io/reading-notes/401/read14) |
 | 14. class-14| [Trees)](https://mohammadaljadayh.github.io/reading-notes/401/read16) |
+| 15. class-15| [AWS: Cloud Servers)](https://mohammadaljadayh.github.io/reading-notes/401/read17) |
 
 
 
