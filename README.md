@@ -77,6 +77,10 @@ I have 5 years’ of  work experience as Network Engineer and Now I am looking t
 | 14. class-14| [Trees)](https://mohammadaljadayh.github.io/reading-notes/401/read16) |
 | 15. class-15| [AWS: Cloud Servers)](https://mohammadaljadayh.github.io/reading-notes/401/read17) |
 | 16. class-16| [AWS: S3 and Lambda](https://mohammadaljadayh.github.io/reading-notes/401/read18) |
+| 17. class-17| [AWS: API, Dynamo and Lambda](https://mohammadaljadayh.github.io/reading-notes/401/read19) |
+
+
+
 
 
 
