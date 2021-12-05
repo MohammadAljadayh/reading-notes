@@ -79,6 +79,8 @@ I have 5 years’ of  work experience as Network Engineer and Now I am looking t
 | 16. class-16| [AWS: S3 and Lambda](https://mohammadaljadayh.github.io/reading-notes/401/read18) |
 | 17. class-17| [AWS: API, Dynamo and Lambda](https://mohammadaljadayh.github.io/reading-notes/401/read19) |
 | 18. class-18| [Events](https://mohammadaljadayh.github.io/reading-notes/401/read20) |
+| 19. class-26| [Component Based UI](https://mohammadaljadayh.github.io/reading-notes/401/read21) |
+| 20. class-27| [useState() Hook](https://mohammadaljadayh.github.io/reading-notes/401/read22) |
 
 
 
