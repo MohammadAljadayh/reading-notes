@@ -82,6 +82,9 @@ I have 5 years’ of  work experience as Network Engineer and Now I am looking t
 | 19. class-26| [Component Based UI](https://mohammadaljadayh.github.io/reading-notes/401/read21) |
 | 20. class-27| [useState() Hook](https://mohammadaljadayh.github.io/reading-notes/401/read22) |
 | 21. class-28| [useEffect() Hook](https://mohammadaljadayh.github.io/reading-notes/401/read23) |
+| 22. class-29| [Advanced State with Reducers](https://mohammadaljadayh.github.io/reading-notes/401/read24) |
+
+
 
 
 
