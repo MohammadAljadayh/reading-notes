@@ -1,4 +1,4 @@
-## Read: Class 33 - Context API
+## Read: Class 31 - Context API
 
 ### Describe use cases `useState()`  vs `useReducer()`?
 
