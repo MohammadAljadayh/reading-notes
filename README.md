@@ -90,6 +90,7 @@ I have 5 years’ of  work experience as Network Engineer and Now I am looking t
 | 29. class| [Application State with Redux](https://mohammadaljadayh.github.io/reading-notes/401/read31) |
 | 30. class| [Readings: Redux - Combined Reducers](https://mohammadaljadayh.github.io/reading-notes/401/read32) |
 | 31. class| [Redux - Asynchronous Actions](https://mohammadaljadayh.github.io/reading-notes/401/read33) |
+| 32. class| [Reading: React Native](https://mohammadaljadayh.github.io/reading-notes/401/read34) |
 
 
 
